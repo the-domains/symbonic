@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-15T17:21:37.461Z'
-dateModified: '2015-10-15T17:21:33.433Z'
+datePublished: '2015-10-15T17:29:55.874Z'
+dateModified: '2015-10-15T17:21:37.461Z'
 title: We Believe
 sourcePath: _posts/2015-10-15-we-believe.md
 published: true
