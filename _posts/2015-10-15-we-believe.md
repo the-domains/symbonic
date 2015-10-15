@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-15T21:37:09.635Z'
-dateModified: '2015-10-15T21:37:06.100Z'
+datePublished: '2015-10-15T22:24:45.549Z'
+dateModified: '2015-10-15T22:24:41.509Z'
 title: We Believe
 sourcePath: _posts/2015-10-15-we-believe.md
 published: true
